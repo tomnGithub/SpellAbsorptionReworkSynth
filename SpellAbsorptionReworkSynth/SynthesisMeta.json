@@ -1,0 +1,13 @@
+{
+    "Nickname": "SpellAbsorptionReworkSynth",
+    "Visibility": "Visible",
+    "OneLineDescription": "Optional Compatibility Patcher for Spell Absorption Rework",
+    "LongDescription": "Optional Compatibility Patcher for Spell Absorption Rework.",
+    "PreferredAutoVersioning": "Default",
+    "RequiredMods": [],
+    "TargetedReleases": [
+        "SkyrimSE",
+        "SkyrimVR",
+        "SkyrimSEGog"
+    ]
+}
